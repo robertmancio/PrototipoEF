@@ -1,0 +1,372 @@
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmLoginHSC.resources
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmLoginHSC.resources
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmLoginHSC.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.MDISeguridad.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmMantenimientoAplicacion.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmAgregarAplicacion.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmAsignarAplicacionAPerfiles.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmConsultarPerfil.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmCambioContraseña.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmMantenimientoPerfil.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\stdole.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\RM\Desktop\RRHH\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.frmDiasTrabajados.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.frmPuesto.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.frmCambioContraseña.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.frmDesarrolloDeCarrera.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.frmPrestacionesLaborales.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.frmAgregarEmpleado.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.MDIRRHH.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\RM\Desktop\RRHH\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaVistaRRHH.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaVistaRRHH.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaControladorRRHH.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\Dapper.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\stdole.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaControladorRRHH.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaModeloRRHH.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmDiasTrabajados.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmNomina.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.frmPrestaciones.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmPuesto.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmDesarrolloDeCarrera.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmPrestacionesLaborales.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmAgregarEmpleado.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmVerCierresDeNomina.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmVerNominas.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.MDIRRHH.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.Properties.Resources.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\Modulos\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmNomina.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.frmPrestaciones.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.MDIRRHH.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.Properties.Resources.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaRRHH.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaRRHH.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorRRHH.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\Dapper.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\stdole.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorRRHH.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloRRHH.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmBanco.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmCuentaBancaria.resources
+C:\Users\HP\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmCuentaContable.resources
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaRRHH.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaRRHH.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\Bitacora.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorRRHH.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\DLLnav.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\Dapper.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorNav.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\stdole.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloNav.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorRRHH.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\Bitacora.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\DLLnav.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControladorNav.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModeloNav.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmCuentaContable.resources
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmCuentaBancaria.resources
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmBanco.resources
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.MDIRRHH.resources
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.Properties.Resources.resources
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVista.frmTipoMovimiento.resources
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaVista\obj\Debug\CapaVistaRRHH.frmMovimientosBancarios.resources
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CapaVistaRRHH.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CapaVistaRRHH.pdb
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CapaControladorRRHH.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\stdole.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\CapaControladorRRHH.pdb
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.frmCuentaContable.resources
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.frmCuentaBancaria.resources
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.frmBanco.resources
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVistaRRHH.frmMovimientosBancarios.resources
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.frmTipoMovimiento.resources
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.MDIRRHH.resources
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVistaRRHH.Properties.Resources.resources
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVistaRRHH.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaVista\obj\Debug\CapaVistaRRHH.pdb

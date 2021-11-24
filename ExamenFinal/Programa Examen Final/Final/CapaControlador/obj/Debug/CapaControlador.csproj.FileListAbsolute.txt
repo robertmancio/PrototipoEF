@@ -1,0 +1,61 @@
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\RM\Desktop\RRHH\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\RM\Desktop\RRHH\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\RM\Desktop\RRHH\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\RM\Desktop\RRHH\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\RM\Desktop\RRHH\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\RM\Desktop\RRHH\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\RM\Desktop\RRHH\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\RM\Desktop\RRHH\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\RRHH\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\RM\Desktop\RRHH\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\RM\Desktop\RRHH\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaControlador\bin\Debug\CapaControladorRRHH.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaControlador\bin\Debug\CapaControladorRRHH.pdb
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaControlador\obj\Debug\CapaControladorRRHH.dll
+C:\Users\RM\Desktop\EXÁMEN FINAL AS2 - MELISSA ALDANA\PrototipoEF\MDI Movimientos Bancarios\MDI\MDI\CapaControlador\obj\Debug\CapaControladorRRHH.pdb
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\bin\Debug\CapaControladorRRHH.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\bin\Debug\CapaControladorRRHH.pdb
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\obj\Debug\CapaControladorRRHH.dll
+C:\Users\RM\Desktop\Examen Final\PrototipoEF\Programa Examen Final\MDI\CapaControlador\obj\Debug\CapaControladorRRHH.pdb
